@@ -1,0 +1,8 @@
+Flask 
+Flask-SQLAlchemy
+Flask-Script
+Flask-restful
+Flask-Migrate
+Flask-cors
+python-dotenv
+PyMySQL
